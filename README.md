@@ -28,29 +28,6 @@ This project is a **Spring Boot-based messaging microservice** that supports bot
 - **MySQL/PostgreSQL** (any relational DB)
 - **Lombok**
 
----
-
-## 📂 Project Structure
-
-```
-
-src
-├── controller
-│   ├── ChatController.java
-│   └── MessageController.java
-├── service
-│   ├── impl
-│   └── interfaces
-├── model
-├── repository
-├── kafka
-│   ├── MessageProducer.java
-│   └── MessageConsumer.java
-└── dto
-
-````
-
----
 
 ## 🔧 Getting Started
 
